@@ -145,38 +145,12 @@ Through this project, I developed practical understanding of:
 
 The final dashboard provides a structured view of technology sales performance and enables stakeholders to quickly understand business trends, evaluate performance, and identify areas of improvement through data-driven insights.
 
----
-
-## Dashboard Preview
-
-![alt text](technology-sales-performance-image.png)
 
 ---
 
 ## Looker Studio Report
 
 ([Technology Sales Performance Report](https://datastudio.google.com/s/vGugMBf2uf4))
-
----
-
-## Project Files
-
-
-Technology-Sales-Performance-Looker-Studio
-│
-├── README.md
-│
-├── Dataset
-│ └── Technology_Sales_Performance_Dataset.csv
-│
-├── Documentation
-│ └── Google_Looker_Studio_Learning_Documentation.pdf
-│
-├── Dashboard
-│ └── Technology_Sales_Performance_Report.pdf
-│
-└── Screenshots
-└── dashboard_preview.png
 
 
 ---
